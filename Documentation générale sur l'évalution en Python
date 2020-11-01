@@ -1,0 +1,38 @@
+
+En passant par le module 'Parser' 
+-> intérêt : permet de séparer l'analyse grammaticale / syntaxique et sémantique (autorise par exemple : "del f(x)" en analyse syntaxique mais refus en analyse sémantique) 
+-> inconviennements : lourd, en cours de suppression dans les versions futures 
+
+(1) obtenir un objet issu d'une source textuelle : 
+
+>>> o = parser.suite('''
+def ok(a):
+	print( a )
+''') 
+
+(2) en faire un arbre ou une liste : 
+
+>>> parser.st2list(o)
+[257, [269, [295, [263, [1, 'def'], [1, 'ok'], [264, [7, '('], [265, [266, [1, 'a']]], [8, ')']], [11, ':'], [304, [4, ''], [5, ''], [269, [270, [271, [272, [274, [306, [310, [311, [312, [313, [316, [317, [318, [319, [320, [321, [322, [323, [324, [325, [1, 'print']], [327, [7, '('], [335, [336, [306, [310, [311, [312, [313, [316, [317, [318, [319, [320, [321, [322, [323, [324, [325, [1, 'a']]]]]]]]]]]]]]]]]], [8, ')']]]]]]]]]]]]]]]]]]], [4, '']]], [6, '']]]]], [4, ''], [0, '']]
+
+>>> parser.st2tuple(o)
+(257, (269, (295, (263, (1, 'def'), (1, 'ok'), (264, (7, '('), (265, (266, (1, 'a'))), (8, ')')), (11, ':'), (304, (4, ''), (5, ''), (269, (270, (271, (272, (274, (306, (310, (311, (312, (313, (316, (317, (318, (319, (320, (321, (322, (323, (324, (325, (1, 'print')), (327, (7, '('), (335, (336, (306, (310, (311, (312, (313, (316, (317, (318, (319, (320, (321, (322, (323, (324, (325, (1, 'a')))))))))))))))))), (8, ')'))))))))))))))))))), (4, ''))), (6, ''))))), (4, ''), (0, '')) 
+
+(3) Produire un objet de type 'code' pour l'exécution (statement) ou une expression : 
+
+>>> co = parser.compilest( o )
+>>> co
+<code object <module> at 0x7f38a5b84ea0, file "<syntax-tree>", line 2>
+
+(4) Exécution à la demande : 
+
+>>> exec(co)
+>>> ok( "a" )
+a
+
+print(ast.dump(ast.parse('''
+def ok2( b ): 
+	print( b ) 
+'''', mode='exec'), indent=4))
+
+

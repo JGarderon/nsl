@@ -1,0 +1,25 @@
+version: "3.3"
+services:
+
+  bdd:
+    build: ./couchdb
+    networks:
+      - frontend 
+      - backend 
+    volumes: 
+      - ./couchdb/data:/opt/couchdb/data 
+    environment:
+      - COUCHDB_USER=admin
+      - COUCHDB_PASSWORD=password 
+
+  porteconteneur:
+    image: portainer/portainer
+    networks:
+      - frontend 
+      - backend 
+    volumes: 
+      - /var/run/docker.sock:/var/run/docker.sock 
+
+networks:
+  frontend:
+  backend:

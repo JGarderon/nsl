@@ -1,0 +1,1403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cou",
+				"couple_destination"
+			],
+			[
+				"FC",
+				"FCompilee"
+			],
+			[
+				"tem",
+				"tempCount"
+			],
+			[
+				"de",
+				"demarrage"
+			],
+			[
+				"ver",
+				"verrou_articiel"
+			],
+			[
+				"lis",
+				"listes"
+			],
+			[
+				"Pare",
+				"ParentheseOuvrante"
+			],
+			[
+				"a",
+				"analyser"
+			],
+			[
+				"Pra",
+				"ParentheseOuvrante"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"corp",
+				"corps_principal"
+			],
+			[
+				"env",
+				"environnement"
+			],
+			[
+				"Exp",
+				"Expression"
+			],
+			[
+				"ma",
+				"match\tmatch … { … }"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"taille",
+				"tailleY"
+			],
+			[
+				"talle",
+				"tailleX"
+			],
+			[
+				"case",
+				"cases_toutes"
+			],
+			[
+				"taill",
+				"tailleX"
+			],
+			[
+				"ta",
+				"tailleY"
+			],
+			[
+				"tai",
+				"tailleX"
+			],
+			[
+				"tail",
+				"tailleY"
+			],
+			[
+				"cas",
+				"Cases"
+			],
+			[
+				"cases",
+				"cases_rouges"
+			],
+			[
+				"p",
+				"println\tprintln!(…)"
+			],
+			[
+				"std",
+				"stdio.h\tstandard header"
+			],
+			[
+				"new",
+				"new_node"
+			],
+			[
+				"Noe",
+				"NoeudLie"
+			],
+			[
+				"Pro",
+				"Procedure"
+			],
+			[
+				"Por",
+				"Procedure"
+			],
+			[
+				"exrt",
+				"extrait_date_mois"
+			],
+			[
+				"pr",
+				"programme"
+			],
+			[
+				"pro",
+				"programme_original"
+			],
+			[
+				"valeur",
+				"valeur_fin"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			],
+			[
+				"iter",
+				"iterateur_enum"
+			],
+			[
+				"d",
+				"duppliquer"
+			],
+			[
+				"cha",
+				"character"
+			],
+			[
+				"char",
+				"characters"
+			],
+			[
+				"chara",
+				"character"
+			],
+			[
+				"me",
+				"member"
+			],
+			[
+				"lua",
+				"lua_State"
+			],
+			[
+				"buf",
+				"buffsize"
+			],
+			[
+				"lib",
+				"libglobal"
+			],
+			[
+				"voi",
+				"c_void"
+			],
+			[
+				"prnt",
+				"println\tprintln!(…)"
+			],
+			[
+				"rappel",
+				"rappel_type"
+			],
+			[
+				"test",
+				"test_adresse"
+			],
+			[
+				"fct",
+				"fct2"
+			],
+			[
+				"en",
+				"entetes"
+			],
+			[
+				"etat",
+				"etat_general"
+			],
+			[
+				"eta",
+				"etat_general"
+			],
+			[
+				"prit",
+				"println\tprintln!(…)"
+			],
+			[
+				"creer",
+				"creer_str"
+			],
+			[
+				"RSS",
+				"RSSFlux"
+			],
+			[
+				"expre",
+				"expreg_r"
+			],
+			[
+				"ssou",
+				"souscripteurs"
+			],
+			[
+				"arg",
+				"arg_chemin"
+			],
+			[
+				"chemin",
+				"chemin_extraire"
+			],
+			[
+				"conte",
+				"contexte_client"
+			],
+			[
+				"acce",
+				"acces_canal"
+			],
+			[
+				"Po",
+				"ProfilPseudo"
+			],
+			[
+				"Prof",
+				"ProfilPseudo"
+			],
+			[
+				"ex",
+				"executer"
+			],
+			[
+				"argu",
+				"arguments"
+			],
+			[
+				"args",
+				"arguments"
+			],
+			[
+				"Bo",
+				"Boolean"
+			],
+			[
+				"Ex",
+				"Expressions"
+			],
+			[
+				"exi",
+				"expressions"
+			],
+			[
+				"Comm",
+				"Commandes"
+			],
+			[
+				"Commandes",
+				"commandes"
+			],
+			[
+				"express",
+				"expressions"
+			],
+			[
+				"Err",
+				"Erreur"
+			],
+			[
+				"Ar",
+				"ArgumentsLocauxEtat"
+			],
+			[
+				"nom",
+				"nouveau_nom"
+			],
+			[
+				"nouv",
+				"nouveau_nom"
+			],
+			[
+				"ancien",
+				"ancien_nom"
+			],
+			[
+				"che",
+				"chemin_extraire"
+			],
+			[
+				"un",
+				"unwrap"
+			],
+			[
+				"cana",
+				"canauxthread"
+			],
+			[
+				"Creer",
+				"creer_str"
+			],
+			[
+				"retur",
+				"Retour"
+			],
+			[
+				"Retou",
+				"Retour"
+			],
+			[
+				"canal",
+				"canalthread"
+			],
+			[
+				"Canau",
+				"CanauxThread"
+			],
+			[
+				"A",
+				"AccesseurObjet"
+			],
+			[
+				"argument",
+				"arguments"
+			],
+			[
+				"O",
+				"Objet"
+			],
+			[
+				"Dic",
+				"dictionnaire"
+			],
+			[
+				"size",
+				"size_of_val"
+			],
+			[
+				"rempl",
+				"remplacement"
+			],
+			[
+				"val",
+				"valeur_type"
+			],
+			[
+				"bool",
+				"booléen"
+			],
+			[
+				"Aru",
+				"ArgumentsLocauxEtat"
+			],
+			[
+				"va",
+				"valeur"
+			],
+			[
+				"dico",
+				"dico_thread"
+			],
+			[
+				"sousc",
+				"souscripteurs"
+			],
+			[
+				"Dictin",
+				"Dictionnaires"
+			],
+			[
+				"Dictionn",
+				"Dictionnaire"
+			],
+			[
+				"Dict",
+				"Dictionnaire"
+			],
+			[
+				"str",
+				"struct\tstruct … { … }"
+			],
+			[
+				"err",
+				"Err"
+			],
+			[
+				"objet",
+				"objets3"
+			],
+			[
+				"date_",
+				"date_plustard"
+			],
+			[
+				"date",
+				"date_plustot"
+			],
+			[
+				"j",
+				"journaliser"
+			],
+			[
+				"se",
+				"separateur"
+			],
+			[
+				"trouver_",
+				"trouver_type"
+			],
+			[
+				"bu",
+				"buffer_uuid"
+			],
+			[
+				"Sil",
+				"SilosIterateur"
+			],
+			[
+				"enre",
+				"enregistrement"
+			],
+			[
+				"E",
+				"Enregistrement"
+			],
+			[
+				"pa",
+				"parametres"
+			],
+			[
+				"fonc",
+				"fonctions_dispo"
+			],
+			[
+				"reso",
+				"resolveur_local"
+			],
+			[
+				"nb",
+				"nbre_thread"
+			],
+			[
+				"vec",
+				"vecteur"
+			],
+			[
+				"Fin",
+				"FinSousRequete"
+			],
+			[
+				"push",
+				"push_str"
+			],
+			[
+				"V",
+				"ValeursType"
+			],
+			[
+				"Vec",
+				"Vecteur"
+			],
+			[
+				"valeu",
+				"valeurs_champs"
+			],
+			[
+				"type",
+				"type_comparatif"
+			],
+			[
+				"Er",
+				"Enregistrement"
+			],
+			[
+				"der",
+				"deserialiser_caractere"
+			],
+			[
+				"des",
+				"deserialiser_Numerique"
+			],
+			[
+				"enreg",
+				"enreg_valeur"
+			],
+			[
+				"texte",
+				"texte_ouvert"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "editeur/public/index.html",
+			"settings":
+			{
+				"buffer_size": 622,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "services/docker-compose.yml",
+			"settings":
+			{
+				"buffer_size": 436,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "version: \"3.8\""
+			}
+		},
+		{
+			"file": "services/couchdb/Dockerfile",
+			"settings":
+			{
+				"buffer_size": 16,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "editeur/src/main.js",
+			"settings":
+			{
+				"buffer_size": 238,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "editeur/src/App.vue",
+			"settings":
+			{
+				"buffer_size": 911,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "editeur/src/config.js",
+			"settings":
+			{
+				"buffer_size": 417,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "editeur/src/components/Header.vue",
+			"settings":
+			{
+				"buffer_size": 1036,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "editeur/src/mixin-global.js",
+			"settings":
+			{
+				"buffer_size": 136,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "editeur/src/components/Footer.vue",
+			"settings":
+			{
+				"buffer_size": 707,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "editeur/src/components/HelloWorld.vue",
+			"settings":
+			{
+				"buffer_size": 2025,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "editeur/src/plugins/bootstrap-vue.js",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Build & Run"
+				],
+				[
+					"Packages/User/Angular.sublime-build",
+					""
+				],
+				[
+					"Packages/User/rust-doc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/rust-simple.sublime-build",
+					""
+				],
+				[
+					"Packages/User/sbcl.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				"Test"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Build & Run"
+				]
+			],
+			[
+				"Packages/Rust/Rust.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cargo run",
+				"Build With: Cargo - Run"
+			],
+			[
+				"ca",
+				"Build With: Cargo - Run"
+			],
+			[
+				"cargo ",
+				"Build With: Cargo - Test"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+			"npm install bootstrap"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/julien/Projets/nothus-serverless/editeur",
+		"/home/julien/Projets/nothus-serverless/editeur/public"
+	],
+	"file_history":
+	[
+		"/home/julien/Projets/nothus-serverless/projet-editeur.sublime-project",
+		"/home/julien/Projets/nothus-serverless/projet-editeur.sublime-workspace",
+		"/home/julien/Projets/nothus-serverless/editeur/package.json",
+		"/home/julien/Projets/nothus-serverless/editeur/node_modules/.bin/acorn",
+		"/home/julien/Projets/nothus-serverless/editeur/index.html",
+		"/home/julien/Projets/nothus-serverless/editeur/src/App2.vue",
+		"/home/julien/Développement/forth/src/main.rs",
+		"/bidule.txt",
+		"/home/julien/Projets/nothus-serverless/xml-sources/example.xml",
+		"/home/julien/Folio Conseil/ploc/web/src/routes.js",
+		"/home/julien/Développement/Docker/PID1/signal.rs",
+		"/home/julien/Développement/Docker/PID1/Dockerfile",
+		"/home/julien/Développement/Docker/Jupytest/lancetoi.sh",
+		"/home/julien/Développement/Docker/Jupylab/lancer.sh",
+		"/home/julien/Développement/Docker/Jupytest/data/lanceur.sh",
+		"/home/julien/Développement/Docker/PID1/hello.go",
+		"/home/julien/Développement/Docker/PID1/exec1.rs",
+		"/home/julien/Développement/Docker/PID1/Dockerfile.sauv",
+		"/home/julien/Développement/Docker/PID1/signal-pid1/src/main.rs",
+		"/home/julien/Développement/Docker/PID2/Dockerfile",
+		"/home/julien/Développement/Docker/PID1/signal-pid1/Cargo.toml",
+		"/home/julien/Développement/Docker/Jupytest/Dockerfile",
+		"/home/julien/Développement/Docker/Goulot/Dockerfile",
+		"/home/julien/Développement/Docker/Jupytest/data/surveille.sh",
+		"/home/julien/Développement/Docker/Jupytest/data/coucou.log",
+		"/home/julien/Développement/Docker/Goulot/data/nginx.lua",
+		"/home/julien/Développement/Docker/Goulot/data/default.nginx",
+		"/home/julien/Développement/Docker/PID1/data/lancer_pid1.sh",
+		"/home/julien/Développement/Docker/PID1/lancer.sh",
+		"/home/julien/Développement/Docker/exemple cron top -bn1.txt",
+		"/home/julien/Développement/Docker/Jupytest/data/creation.sql",
+		"/home/julien/Développement/Docker/Jupytest/resultats.log",
+		"/home/julien/Développement/Docker/Jupytest/data/lanceur.log",
+		"/home/julien/Développement/Docker/Jupytest/data/acces.log",
+		"/home/julien/Développement/Docker/Goulot/data/nginx-restart.lua",
+		"/home/julien/Développement/Docker/Goulot/data/redis.conf",
+		"/home/julien/Développement/Docker/Jupytest/data/surveille-seul.sh",
+		"/var/log/auth.log",
+		"/var/log/kern.log",
+		"/home/julien/Développement/Docker/TestVolume/Dockerfile",
+		"/home/julien/Développement/Docker/TestVolume/pouet/truc",
+		"/home/julien/Développement/Docker/Jupytest/résultats.txt",
+		"/home/julien/Développement/Docker/Jupytest/data/acces",
+		"/home/julien/Développement/Docker/resultats.txt",
+		"/home/julien/Développement/angular/angular-pouet2/src/app/app.component.spec.ts",
+		"/home/julien/Développement/angular/angular-pouet/tslint.json",
+		"/home/julien/.config/sublime-text-3/Packages/User/Angular.sublime-build",
+		"/home/julien/.config/sublime-text-3/Packages/User/rust-simple.sublime-build",
+		"/home/julien/.config/sublime-text-3/Packages/User/rust-doc.sublime-build",
+		"/home/julien/Développement/php-src/ext/test1/test1.loT",
+		"/home/julien/Développement/php-src/ext/ext_skel.php",
+		"/home/julien/Développement/php-src/ext/test1/test1.c",
+		"/home/julien/Développement/php-hello/hello_from_rust.rs",
+		"/home/julien/Développement/php-hello/test.c",
+		"/home/julien/Développement/php-hello/hello.c",
+		"/home/julien/Développement/php-hello/hello_from_rust.rs.h",
+		"/home/julien/Développement/php-hello/config.m4",
+		"/home/julien/Développement/php-hello/php_helloword.h",
+		"/home/julien/Développement/php-hello/php_helloword.c",
+		"/usr/lib/php/20190902/xml.so",
+		"/home/julien/Développement/php-hello/pouet.h",
+		"/home/julien/Développement/php-hello/test.php",
+		"/home/julien/Développement/php-hello/php_hello.h",
+		"/home/julien/Développement/php-hello/hello.php",
+		"/home/julien/Développement/arbre1/src/main.rs",
+		"/home/julien/Développement/arbre1/src/test-2.rs",
+		"/home/julien/Bureau/TP final EPSI/notes personnelles",
+		"/home/julien/Développement/arbre1/src/main-1.rs",
+		"/home/julien/Développement/arbre1/src/main-2.rs",
+		"/home/julien/Développement/arbre1/src/test-1.c",
+		"/home/julien/Bureau/tsrit.bat",
+		"/home/julien/Développement/selectpoll/src/main.rs",
+		"/home/julien/Bureau/Projet de recherche/Note - projet de recherche (DU)",
+		"/home/julien/Développement/machine-etat2/src/cerise.rs",
+		"/home/julien/Développement/machine-etat2/src/main.rs",
+		"/home/julien/Développement/Robert/src/resolution.rs",
+		"/home/julien/Développement/Robert/src/main.rs",
+		"/home/julien/Développement/Robert/src/valeur.rs",
+		"/home/julien/Développement/Robert/src/service.rs",
+		"/home/julien/Développement/cllsqlt/cllsqlt.sh",
+		"/home/julien/Bureau/script-log2.sh",
+		"/home/julien/Développement/machine-etat1/test.rs",
+		"/home/julien/Documents/Courriers/20200526-Solicis.txt",
+		"/home/julien/Documents/Courriers/Celios Limoges.txt",
+		"/home/julien/Développement/machine-etat1/test-1.rs",
+		"/home/julien/Développement/Robert/src/resolution/resoudre_administration.rs",
+		"/home/julien/Développement/Robert/src/resolution/resoudre_canal.rs",
+		"/home/julien/Développement/Robert/src/canal.rs",
+		"/home/julien/Bureau/en cours",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/SQLQuery4.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/SQLQuery9.sql",
+		"/home/julien/Développement/twitter/script-extraction-xml.js",
+		"/home/julien/Développement/twitter/script-1.py",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/Script_DDL_Facturation en Sql Server.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/SQLQuery2.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/SQLQuery6.sql",
+		"/home/julien/Développement/twitter/script-extraction-texte-page.js",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/SQLQuery8.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/table-virtuelle.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/SQLQuery3.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/SQLQuery7.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/SQLQuery5.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/SQLQuery1.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/test3.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/test2.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/test.sql",
+		"/run/user/1000/gvfs/sftp:host=192.168.1.30,user=julien/home/julien/TMP/sql.sql",
+		"/home/julien/Développement/twitter/resultat-test.txt",
+		"/home/julien/Développement/Nothus-Veille/META-INF/mozilla.rsa",
+		"/home/julien/Développement/Nothus-Veille/META-INF/manifest.mf",
+		"/home/julien/Développement/Nothus-Veille/META-INF/mozilla.sf",
+		"/home/julien/Développement/lua3/lua/ldo.c",
+		"/home/julien/Développement/lua3/lua/lzio.c",
+		"/home/julien/Développement/lua3/lua/lzio.h",
+		"/home/julien/Développement/lua3/lua/global.rs",
+		"/home/julien/Développement/lua3/lua/lauxlib.h",
+		"/home/julien/Développement/lua3/lua/mbuffer.rs",
+		"/home/julien/Développement/lua3/lua/test.c",
+		"/home/julien/Développement/lua3/lua/makefile",
+		"/home/julien/Développement/lua3/lua/llex.c",
+		"/home/julien/Développement/lua3/lua/lancement.sh",
+		"/home/julien/Développement/lua3/lua/ltable.c",
+		"/home/julien/Développement/lua3/lua/lua.c",
+		"/home/julien/Développement/lua3/lua/log.txt",
+		"/home/julien/Développement/lua3/lua/llimits.h",
+		"/home/julien/Développement/lua3/lua/lua.h",
+		"/home/julien/Développement/lua3/lua/lapi.c",
+		"/home/julien/Développement/lua3/lua/ldo.h"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"detect",
+			" \n",
+			"tab",
+			"\\t",
+			" \n",
+			"\t"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"  "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "editeur/public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "services/docker-compose.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"auto_name": "version: \"3.8\"",
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "services/couchdb/Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "editeur/src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "editeur/src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 545.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "editeur/src/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "editeur/src/components/Header.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 395.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "editeur/src/mixin-global.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "editeur/src/components/Footer.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								472,
+								472
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 169.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "editeur/src/components/HelloWorld.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2025,
+								2025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 618.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "editeur/src/plugins/bootstrap-vue.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 441.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 186.0
+	},
+	"pinned_build_system": "Packages/Rust/Rust.sublime-build",
+	"project": "projet-editeur.sublime-project",
+	"replace":
+	{
+		"height": 91.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
