@@ -520,39 +520,19 @@
 	"buffers":
 	[
 		{
-			"file": "editeur/public/index.html",
-			"settings":
-			{
-				"buffer_size": 622,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "services/docker-compose.yml",
-			"settings":
-			{
-				"buffer_size": 436,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "version: \"3.8\""
-			}
-		},
-		{
-			"file": "services/couchdb/Dockerfile",
-			"settings":
-			{
-				"buffer_size": 16,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "editeur/src/main.js",
 			"settings":
 			{
-				"buffer_size": 238,
+				"buffer_size": 328,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import Vue from 'vue';\nimport VueRouter from 'vue-router';\n\nVue.use(VueRouter);\n\n// import Home from './components/Home.vue';\n// import About from './components/About.vue';\n// import Contact from './components/Contact.vue';\n\nconst router = new VueRouter({\n  mode: 'history',\n  base: __dirname,\n  routes: [\n    { path: '/', component: { template: 'home' } },\n    { path: '/about', component: { template: 'about'} },\n    { path: '/contact', component: {template: 'contact'} }\n  ]\n});\n\nnew Vue({\n  router,\n  render: h => h(App) \n  template: `\n    <div>\n      <nav class=\"navbar navbar-toggleable-md navbar-light bg-faded\">\n        <div class=\"collapse navbar-collapse\" id=\"navbarNav\">\n          <ul class=\"navbar-nav\">\n            <li class=\"nav-item\"><router-link to=\"/\" class=\"nav-link\">Home</router-link></li>\n            <li class=\"nav-item\"><router-link to=\"/about\" class=\"nav-link\">About</router-link></li>\n            <li class=\"nav-item\"><router-link to=\"/contact\" class=\"nav-link\">Contact</router-link></li>\n          </ul>\n        </div>\n      </nav>\n      <router-view class=\"view\"></router-view>\n    </div>\n  `\n}).$mount('#app');\n",
+			"settings":
+			{
+				"buffer_size": 1139,
 				"line_ending": "Unix"
 			}
 		},
@@ -560,34 +540,25 @@
 			"file": "editeur/src/App.vue",
 			"settings":
 			{
-				"buffer_size": 911,
+				"buffer_size": 946,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "editeur/src/config.js",
+			"file": "editeur/src/router/index.js",
 			"settings":
 			{
-				"buffer_size": 417,
+				"buffer_size": 540,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "editeur/src/components/Header.vue",
+			"file": "editeur/src/views/Home.vue",
 			"settings":
 			{
-				"buffer_size": 1036,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "editeur/src/mixin-global.js",
-			"settings":
-			{
-				"buffer_size": 136,
+				"buffer_size": 470,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -597,24 +568,34 @@
 			"settings":
 			{
 				"buffer_size": 707,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "editeur/src/components/Test.vue",
+			"settings":
+			{
+				"buffer_size": 299,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "editeur/src/components/HelloWorld.vue",
+			"contents": "{\"message\":\"Hello, world 4\",\"o1\":{\"body\":\"\",\"headers\":{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\"Accept-Encoding\":\"gzip, deflate, br\",\"Accept-Language\":\"fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3\",\"Cache-Control\":\"no-cache\",\"Dnt\":\"1\",\"Forwarded\":\"for=195.154.71.32;proto=https, for=100.64.10.83\",\"K-Proxy-Request\":\"activator\",\"Pragma\":\"no-cache\",\"Te\":\"trailers\",\"Upgrade-Insecure-Requests\":\"1\",\"User-Agent\":\"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0\",\"X-Envoy-Expected-Rq-Timeout-Ms\":\"172800000\",\"X-Envoy-External-Address\":\"195.154.71.32\",\"X-Forwarded-For\":\"195.154.71.32, 100.64.10.83, 100.64.2.25\",\"X-Forwarded-Proto\":\"https\",\"X-Request-Id\":\"7c03d021-1950-46e5-98b0-0238ccd64d8b\",\"X-Request-Start\":\"t=1604829354.671\"},\"httpMethod\":\"GET\",\"isBase64Encoded\":true,\"multiValueHeaders\":null,\"multiValueQueryStringParameters\":null,\"path\":\"/\",\"pathParameters\":null,\"queryStringParameters\":{},\"requestContext\":{\"accountId\":\"\",\"apiId\":\"\",\"authorizer\":null,\"httpMethod\":\"GET\",\"requestId\":\"\",\"resourceId\":\"\",\"resourcePath\":\"\",\"stage\":\"\"},\"resource\":\"\",\"stageVariables\":{}},\"o2\":{\"functionName\":\"esttoto2\",\"functionVersion\":\"\",\"memoryLimitInMb\":2048},\"o3\":{\"GPG_KEY\":\"0D96DF4D4110E5C43FBFB17F2D347EA6AA65421D\",\"HOME\":\"/root\",\"HOSTNAME\":\"testtotoksbyuerc-esttoto2-556n9-deployment-64c69c4d66-dgbcg\",\"KUBERNETES_PORT\":\"tcp://10.32.0.1:443\",\"KUBERNETES_PORT_443_TCP\":\"tcp://10.32.0.1:443\",\"KUBERNETES_PORT_443_TCP_ADDR\":\"10.32.0.1\",\"KUBERNETES_PORT_443_TCP_PORT\":\"443\",\"KUBERNETES_PORT_443_TCP_PROTO\":\"tcp\",\"KUBERNETES_SERVICE_HOST\":\"10.32.0.1\",\"KUBERNETES_SERVICE_PORT\":\"443\",\"KUBERNETES_SERVICE_PORT_HTTPS\":\"443\",\"K_CONFIGURATION\":\"testtotoksbyuerc-esttoto2\",\"K_INTERNAL_POD_NAME\":\"testtotoksbyuerc-esttoto2-556n9-deployment-64c69c4d66-dgbcg\",\"K_INTERNAL_POD_NAMESPACE\":\"f378e19a-e9cf-439f-93aa-528c59856df0\",\"K_REVISION\":\"testtotoksbyuerc-esttoto2-556n9\",\"K_SERVICE\":\"testtotoksbyuerc-esttoto2\",\"LANG\":\"C.UTF-8\",\"PATH\":\"/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\",\"PORT\":\"8080\",\"PWD\":\"/home/app\",\"PYTHONPATH\":\"/home/app/function:/home/app/function/package\",\"PYTHON_GET_PIP_SHA256\":\"56bb63d3cf54e7444351256f72a60f575f6d8c7f1faacffae33167afc8e7609d\",\"PYTHON_GET_PIP_URL\":\"https://github.com/pypa/get-pip/raw/404c9418e33c5031b1a9ab623168b3e8a2ed8c88/get-pip.py\",\"PYTHON_PIP_VERSION\":\"19.2.1\",\"PYTHON_VERSION\":\"3.7.4\",\"SCW_APPLICATION_ID\":\"0569d216-82d7-45f3-a118-431e8c5a2ef5\",\"SCW_APPLICATION_MEMORY\":\"2048\",\"SCW_APPLICATION_NAME\":\"esttoto2\",\"SCW_HANDLER_NAME\":\"handle\",\"SCW_HANDLER_PATH\":\"/home/app/function/handler\",\"SCW_NAMESPACE_ID\":\"ff0bfa71-1b1f-4f70-b4e4-2d19f65ba88c\",\"SCW_PUBLIC\":\"true\",\"SCW_PUBLIC_KEY\":\"-----BEGIN RSA PUBLIC KEY-----\\nMIICCgKCAgEAu2Vuat4NJ/9RbFJf3N+82OgtXLQZJuALB9RfeiRbBGHZNa3xUeaJ\\nAc4fDDbS5iUswMisntz/eKFikMw97dFVDyVgKeJYS3OENo3sHaZsE2oESfwwgkCD\\ns8sS05pBCbJboOT991ln7s+ypyR0p7ZFYOs2nx20UPmYR9ToiZ5noq3wqUexMerV\\nvRa/ThWNvDd9gxg6AgrAkWuEKKd1HEcx55uu/ZvnOnpnzRRvXOnTywG+pFWf+u4b\\netqJJytd+7wzF0ISQYk7Hw5L2J18o6OzRtXPVbrSsH2bsLC8z4zPUzDGn8OJSTEn\\niloLMkniQ3flf+jWu4VAPr5dkAe84xFuKdRLjHRUNJkMIq83eRzP5WiAEcqrkZJR\\noVV3HqI6i6D/5oBeo/Uuq3Bx8sVyz1ov8PrkxXHG92s9409gYyRw/kSs1pfzTNVT\\nFT0nABC1t7NmcPRldSUvIpvZLg4ueR/pt5z4NACuHSoSmFYHh5WnciApGLL9TxEr\\nEosxgdwb7pQgMd5to4pzla+WtIrLXtyGxYYW2qezIV6MkaP+qyTUeoxrtcDuwOQD\\nS84cJmi74jq7IrRDF9OVYpcGLkpxCo5tl+1j+rtxsTbf+MiJUkDFci+1JVsA5XS/\\na5OkdtBduQClsgRyZz6q8VrvGkYuQJOgBYPIzJFsPVMfwD/SwJ427kMCAwEAAQ==\\n-----END RSA PUBLIC KEY-----\\n\",\"SCW_RUNTIME_BINARY\":\"/bin/sh\",\"SCW_RUNTIME_BRIDGE\":\"/home/app/bootup.sh\",\"SCW_UPSTREAM_PORT\":\"8081\",\"SERVER_SOFTWARE\":\"gunicorn/20.0.4\",\"SHLVL\":\"2\",\"exec_timeout\":\"10s\",\"toto\":\"tata\",\"truc\":\"bidule\",\"write_timeout\":\"10s\"}}",
 			"settings":
 			{
-				"buffer_size": 2025,
-				"line_ending": "Unix"
+				"buffer_size": 3720,
+				"line_ending": "Unix",
+				"name": "{\"message\":\"Hello, world 4\",\"o1\":{\"body\":\"\",\"heade"
 			}
 		},
 		{
-			"file": "editeur/src/plugins/bootstrap-vue.js",
+			"file": "editeur/src/components/Header.vue",
 			"settings":
 			{
-				"buffer_size": 179,
-				"line_ending": "Windows"
+				"buffer_size": 1223,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -784,13 +765,27 @@
 	"expanded_folders":
 	[
 		"/home/julien/Projets/nothus-serverless/editeur",
-		"/home/julien/Projets/nothus-serverless/editeur/public"
+		"/home/julien/Projets/nothus-serverless/editeur/src",
+		"/home/julien/Projets/nothus-serverless/editeur/src/components",
+		"/home/julien/Projets/nothus-serverless/editeur/src/router",
+		"/home/julien/Projets/nothus-serverless/editeur/src/views"
 	],
 	"file_history":
 	[
+		"/home/julien/Projets/nothus-serverless/editeur/src/components/HelloWorld.vue",
+		"/home/julien/Projets/nothus-serverless/editeur/src/views/Home.vue",
+		"/home/julien/Projets/nothus-serverless/editeur/package.json",
+		"/home/julien/Projets/nothus-serverless/editeur/package-lock.json",
+		"/home/julien/Projets/nothus-serverless/editeur/src/plugins/bootstrap-vue.js",
+		"/home/julien/Projets/nothus-serverless/editeur/src/components/Footer.vue",
+		"/home/julien/Projets/nothus-serverless/editeur/src/mixin-global.js",
+		"/home/julien/Projets/nothus-serverless/editeur/src/config.js",
+		"/home/julien/Projets/nothus-serverless/editeur/public/index.html",
+		"/home/julien/Projets/nothus-serverless/services/docker-compose.yml",
+		"/home/julien/Projets/nothus-serverless/services/couchdb/Dockerfile",
+		"/home/julien/Projets/nothus-serverless/editeur/src/router.js",
 		"/home/julien/Projets/nothus-serverless/projet-editeur.sublime-project",
 		"/home/julien/Projets/nothus-serverless/projet-editeur.sublime-workspace",
-		"/home/julien/Projets/nothus-serverless/editeur/package.json",
 		"/home/julien/Projets/nothus-serverless/editeur/node_modules/.bin/acorn",
 		"/home/julien/Projets/nothus-serverless/editeur/index.html",
 		"/home/julien/Projets/nothus-serverless/editeur/src/App2.vue",
@@ -904,22 +899,11 @@
 		"/home/julien/Développement/lua3/lua/lzio.h",
 		"/home/julien/Développement/lua3/lua/global.rs",
 		"/home/julien/Développement/lua3/lua/lauxlib.h",
-		"/home/julien/Développement/lua3/lua/mbuffer.rs",
-		"/home/julien/Développement/lua3/lua/test.c",
-		"/home/julien/Développement/lua3/lua/makefile",
-		"/home/julien/Développement/lua3/lua/llex.c",
-		"/home/julien/Développement/lua3/lua/lancement.sh",
-		"/home/julien/Développement/lua3/lua/ltable.c",
-		"/home/julien/Développement/lua3/lua/lua.c",
-		"/home/julien/Développement/lua3/lua/log.txt",
-		"/home/julien/Développement/lua3/lua/llimits.h",
-		"/home/julien/Développement/lua3/lua/lua.h",
-		"/home/julien/Développement/lua3/lua/lapi.c",
-		"/home/julien/Développement/lua3/lua/ldo.h"
+		"/home/julien/Développement/lua3/lua/mbuffer.rs"
 	],
 	"find":
 	{
-		"height": 50.0
+		"height": 53.0
 	},
 	"find_in_files":
 	{
@@ -933,6 +917,10 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"\\t",
+			"module",
+			"\t",
+			"\\t",
 			"detect",
 			" \n",
 			"tab",
@@ -957,66 +945,36 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "editeur/public/index.html",
+					"file": "editeur/src/main.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 622,
+						"buffer_size": 328,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								41,
-								41
+								269,
+								269
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "services/docker-compose.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 436,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								256,
-								256
-							]
-						],
-						"settings":
-						{
-							"auto_name": "version: \"3.8\"",
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"typescript_plugin_format_options":
 							{
 								"convertTabsToSpaces": false,
 								"indentSize": 4,
 								"tabSize": 4
-							}
+							},
+							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1026,78 +984,49 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "services/couchdb/Dockerfile",
+					"buffer": 1,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 16,
+						"buffer_size": 1139,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15,
-								15
+								502,
+								502
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 149.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "editeur/src/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 238,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								235,
-								235
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
+					"buffer": 2,
 					"file": "editeur/src/App.vue",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 911,
+						"buffer_size": 946,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								564,
-								564
+								548,
+								548
 							]
 						],
 						"settings":
@@ -1113,99 +1042,34 @@
 							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 545.0,
+						"translation.y": 565.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "editeur/src/config.js",
+					"buffer": 3,
+					"file": "editeur/src/router/index.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 417,
+						"buffer_size": 540,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								98,
-								98
+								140,
+								140
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"use_tab_stops": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "editeur/src/components/Header.vue",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1036,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								407,
-								407
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 395.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "editeur/src/mixin-global.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 136,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								35,
-								35
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"typescript_plugin_format_options":
-							{
-								"convertTabsToSpaces": false,
-								"indentSize": 4,
-								"tabSize": 4
-							},
+							"translate_tabs_to_spaces": true,
 							"use_tab_stops": false
 						},
 						"translation.x": 0.0,
@@ -1216,7 +1080,35 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 4,
+					"file": "editeur/src/views/Home.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"file": "editeur/src/components/Footer.vue",
 					"semi_transient": false,
 					"settings":
@@ -1228,37 +1120,8 @@
 						"selection":
 						[
 							[
-								472,
-								472
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 169.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "editeur/src/components/HelloWorld.vue",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2025,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2025,
-								2025
+								566,
+								566
 							]
 						],
 						"settings":
@@ -1268,39 +1131,98 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 618.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "editeur/src/plugins/bootstrap-vue.js",
+					"buffer": 6,
+					"file": "editeur/src/components/Test.vue",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 179,
+						"buffer_size": 299,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								33,
+								33
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"use_tab_stops": false
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3720,
+								3720
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{\"message\":\"Hello, world 4\",\"o1\":{\"body\":\"\",\"heade",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 389.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "editeur/src/components/Header.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
 					"type": "text"
 				}
 			]
@@ -1308,7 +1230,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 40.0
 	},
 	"input":
 	{
@@ -1357,7 +1279,7 @@
 	"project": "projet-editeur.sublime-project",
 	"replace":
 	{
-		"height": 91.0
+		"height": 97.0
 	},
 	"save_all_on_build": true,
 	"select_file":
