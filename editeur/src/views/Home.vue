@@ -12,6 +12,8 @@ import mixin_global from '../mixin-global.js'
 
 import Test from '../components/Test.vue' 
 
+console.log( Test ); 
+
 export default { 
   mixins: [ Config, mixin_global ],  
   data: function() { 
